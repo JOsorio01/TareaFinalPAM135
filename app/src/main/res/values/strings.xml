@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PAM135</string>
+    <string name="username">Usuario</string>
+    <string name="password">Contrase\u00f1a</string>
+    <string name="title_login">Login</string>
+    <string name="login">Iniciar Sesi\u00f3n</string>
+    <string name="inventario">Inventario</string>
+    <string name="proveedores">Proveedores</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="identificador">Id:</string>
+    <string name="nombre_producto">Nombre del Producto:</string>
+    <string name="existencias">Existencias</string>
+    <string name="nombre_proveedor">Nombre del Proveedor</string>
+    <string name="agregar">Agregar</string>
+    <string name="agregar_producto">Agregar Producto</string>
+    <string name="agregar_proveedor">Agregar Proveedor</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="eliminar">Eliminar</string>
+</resources>
